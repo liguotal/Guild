@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9E8F1E55B05E284211159EB4FDFC97684FD8A04D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9E8F1E55B05E284211159EB4FDFC97684FD8A04D" : 0,
+    "F685FF78CF0D1EEA755036738FA6490BD40C34BA" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "19B7A642-29B4-48B3-834D-AEB077769003",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9E8F1E55B05E284211159EB4FDFC97684FD8A04D" : "ABCIntroView",
+    "F685FF78CF0D1EEA755036738FA6490BD40C34BA" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ABCIntroView",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ABCIntroView.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/AdamBCo\/ABCIntroView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9E8F1E55B05E284211159EB4FDFC97684FD8A04D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/liguotal\/webTableView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F685FF78CF0D1EEA755036738FA6490BD40C34BA"
+    }
+  ]
+}
